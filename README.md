@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo 2 de Prepcourse Henry
+Este es un proyecto de prueba de como crear y clonar un repositorio
+
